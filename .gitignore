@@ -1,0 +1,6 @@
+/depot_tools
+/v8
+/libuv
+*.o
+.*.sw*
+/execjs
